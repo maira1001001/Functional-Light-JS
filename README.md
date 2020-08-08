@@ -2,7 +2,23 @@
 
 # Functional-Light-JS
 
-FUNCTIONAL-LIGHT JS Kyle Simpsons frontendmasters.com
+* Course: [Functional Javascript v3](https://frontendmasters.com/courses/functional-javascript-v3/)
+* Platform: [Frontend Masters](https://frontendmasters.com/)
+* Duration: 10 hours, 1 minute
+* Teacher: [Kyle Simpson](https://me.getify.com/)
+* Content: 
+  - Function purity
+  - Argument Adapters
+  - Point Free
+  - Closure
+  - Composition
+  - Immutability
+  - Recursion
+  - List Operation
+  - Transduction
+  - Data Structure operation
+  - Async
+  - Functional JS utils
 
 <!-- @format -->
 
